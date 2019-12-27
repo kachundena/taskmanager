@@ -1,0 +1,19 @@
+{
+    "tasks": [
+      {
+        "id": "1",
+        "deno": "Lavar platos",
+        "detalle": "Lavar los platos"
+      },
+      {
+        "id": "2",
+        "deno": "Asearme",
+        "detalle": "Ducharme y lavarme los dientes"
+      },
+      {
+        "id": "3",
+        "deno": "Comer",
+        "detalle": "Desayunar, comer y cenar"
+      }
+    ]
+}
